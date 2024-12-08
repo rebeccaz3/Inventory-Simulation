@@ -1,4 +1,3 @@
-
 # Trader Joe's Inventory Simulation Project
 
 This repository contains Python code for simulating and analyzing inventory management at Trader Joe's. The project is divided into four parts, each focusing on a specific aspect of data analysis and simulation.
@@ -40,4 +39,4 @@ This repository contains Python code for simulating and analyzing inventory mana
 
 ---
 
-Feel free to explore the code for each part to better understand how the analysis and simulations were performed. Contributions and feedback are welcome!
+Feel free to explore the code for each part to better understand how the analysis and simulations were performed.
